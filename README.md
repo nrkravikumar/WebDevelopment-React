@@ -8,3 +8,9 @@ Mr.Johnny
             [Click here](https://johnnytrainer.github.io/apskills/)
   - Youtube Link
             [Click here](https://www.youtube.com/channel/UCLzu8B0y7Tml4UDHKTLLVgw/playlists)
+           
+# Daywise Assignments:
+
+## Day-1:
+  - [Day-1]()
+  - [Day-2]()
