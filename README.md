@@ -1,4 +1,6 @@
 # WebDevelopment-React
 
 ## Trainer URL
-Mr.Johnny [Click here](https://johnnytrainer.github.io/apskills/)
+Mr.Johnny 
+  - Daily Content and Assignments
+            [Click here](https://johnnytrainer.github.io/apskills/)
