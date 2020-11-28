@@ -12,5 +12,5 @@ Mr.Johnny
 # Daywise Assignments:
 
 ## Day-1:
-  - [Day-1](https://github.com/nrkravikumar/WebDevelopment-React/blob/main/Day-1/index.html)
+  - [Day-1](https://nrkravikumar.github.io/WebDevelopment-React/Day-1/index.html)
   - [Day-2]()
