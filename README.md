@@ -13,4 +13,6 @@ Mr.Johnny
 
 ## Day-1:
   - [Day-1](https://nrkravikumar.github.io/WebDevelopment-React/Day-1/index.html)
+
+## Day-2:
   - [Day-2]()
